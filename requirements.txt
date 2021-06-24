@@ -1,0 +1,5 @@
+nose
+nose-cov
+beautifulsoup4
+
+Django~=2.2.4
